@@ -62,9 +62,9 @@
 
 二. **工作相關文件請存放於VPS上，勿放置在本機**
 
-三. **如遇到無法處理的問題，請馬上向主管回報**
+<mark style="color:red;">三.</mark> <mark style="color:red;"></mark><mark style="color:red;">**如遇到無法處理的問題或5分鐘無法解決，請馬上向主管回報**</mark>
 
-四. **交接內容請簡潔明瞭，讓大家都看得懂cd**
+四. **交接內容請簡潔明瞭，讓大家都看得懂**
 
 五. **每日巡檢如有異常，請立馬通報**
 
@@ -76,6 +76,4 @@
 
 三.**愛護辦公室的各項設施，保持辦公室乾淨**
 
-四. 正確使用公司內的水，電，空調等設施，最後離開辦公室的人員應關閉空調，電燈等應該關閉的設施
-
-{% include "../.gitbook/includes/si-.-zheng-que-shi-yong-gong-si-nei-de-shui-dian-kong-diao-deng-she-shi-zui-hou-li-kai-ban-gong-....md" %}
+**四. 正確使用公司內的水，電，空調等設施，最後離開辦公室的人員應關閉空調，電燈等應該關閉的設施**
